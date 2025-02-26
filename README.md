@@ -17,7 +17,7 @@ Supports **video & audio downloads**, real-time **progress tracking**, and a **m
 - [📜 License (Optional)](#license-optional)
 ---
 
-## 🌟 Features
+<h2 id="features">✨ Features</h2>
 
 ✅ **Download YouTube videos & audio (MP4/MP3)**  
 ✅ **Futuristic UI** using `customtkinter`  
@@ -28,15 +28,15 @@ Supports **video & audio downloads**, real-time **progress tracking**, and a **m
 
 ---
 
-## 📦 Installation
+<h2 id="installation">📦 Installation</h2>
 
-### **1️⃣ Install Python & Dependencies**
+### <h3 id="install-python-dependencies">1️⃣ Install Python & Dependencies</h3>
 Ensure you have **Python 3.7+** installed. Then, install the required dependencies:
 
 ```bash
 pip install yt-dlp customtkinter
 ```
-### **2️⃣ Install FFmpeg (Required)**
+### <h3 id="install-ffmpeg-required">2️⃣ Install FFmpeg (Required)</h3>
 FFmpeg is needed to merge video & audio. Install it:
 
 #### **Windows:**
@@ -55,7 +55,7 @@ sudo apt install ffmpeg
 brew install ffmpeg  
 ```
 
-## 🚀 Usage
+<h2 id="usage">🚀 Usage</h2>
 
 1.  Run the script:
 
@@ -75,7 +75,7 @@ brew install ffmpeg
 
 ---
 
-## 🛠️ Troubleshooting
+<h2 id="troubleshooting">🛠️ Troubleshooting</h2>
 
 - ❌ **Progress Bar Stuck at 0%?**
   - ✔️ Ensure FFmpeg is installed correctly and added to your system's PATH.
@@ -95,7 +95,7 @@ brew install ffmpeg
 
 ---
 
-## ⚙️ Tech Stack
+<h2 id="tech-stack">⚙️ Tech Stack</h2>
 
 - 🟢 Python 3.7+
 - 🟢 `yt-dlp` (YouTube downloading backend)
@@ -104,7 +104,7 @@ brew install ffmpeg
 
 ---
 
-## 🤝 Contributing (Optional)
+<h2 id="contributing-optional">🤝 Contributing (Optional)</h2>
 
 If you'd like to contribute, please follow these steps:
 
